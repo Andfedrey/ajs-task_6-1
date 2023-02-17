@@ -1,0 +1,1 @@
+import getHeroSort from './heroSort';
